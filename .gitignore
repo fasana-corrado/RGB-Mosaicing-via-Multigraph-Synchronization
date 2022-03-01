@@ -1,3 +1,5 @@
 matches/
 salient_matches/
 sift/
+temp/
+.ipynb_checkpoints/
