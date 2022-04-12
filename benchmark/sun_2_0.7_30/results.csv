@@ -1,0 +1,2 @@
+number_of_matches,noise_std,Basic Stitching,Simple Graph Stitching,Edge Averaging Stitching,Multi-Graph Stitching,Multi-Patch Stitching,Multi-Patch Edge Averaging Stitching,Experiments
+10,0.01,2.8962879039732723,0.17572766172605858,0.061427950497742294,0.061427950497711575,7.193042023462821,5.836654395311773,3
